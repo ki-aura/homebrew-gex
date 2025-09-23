@@ -1,8 +1,8 @@
 class Gex < Formula
   desc "gex hex editor"
   homepage "https://github.com/ki-aura/gex"
-  url "https://github.com/ki-aura/gex/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "ede3e1eba68a8d9c564a71acd4eabe5b72242706f1c5db6042546574b6723db4"
+  url "https://github.com/ki-aura/gex/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "af3b09549aaa0335beac848d459590df44eb2e22d9118f5aaf4d49172b64b387"
   license "MIT"
   depends_on "ncurses" => :build
   def install
