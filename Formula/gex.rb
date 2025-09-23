@@ -1,5 +1,5 @@
 class Gex < Formula
-  desc "gex hex editor"
+  desc "Tylor Memorial Hex Editor"
   homepage "https://github.com/ki-aura/gex"
   url "https://github.com/ki-aura/gex/archive/refs/tags/v1.3.1.tar.gz"
   sha256 "8b987dd7e008565e457056b883c17f5751e6470ad6dcf10a86599ed950d91b62"
