@@ -2,9 +2,7 @@
 
 ## How do I install these formulae?
 
-`brew install ki-aura/gex/<formula>`
-
-Or `brew tap ki-aura/gex` and then `brew install <formula>`.
+`brew tap ki-aura/gex` and then `brew install gex`.
 
 Or, in a `brew bundle` `Brewfile`:
 
