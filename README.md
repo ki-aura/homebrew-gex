@@ -2,14 +2,10 @@
 
 ## How do I install these formulae?
 
-`brew tap ki-aura/gex` and then `brew install gex`.
+`brew tap ki-aura/gex` and then 
 
-Or, in a `brew bundle` `Brewfile`:
+`brew install gex`.
 
-```ruby
-tap "ki-aura/gex"
-brew "<formula>"
-```
 
 ## Documentation
 
