@@ -1,8 +1,8 @@
 class Gex < Formula
   desc "Tyler Hex Editor"
   homepage "https://github.com/ki-aura/gex"
-  url "https://github.com/ki-aura/gex/archive/refs/tags/v1.3.2.tar.gz"
-  sha256 "06bc9979340e072ee009ecad70fa3ce0485b803e2bd29d91e45420dd99887957"
+  url "https://github.com/ki-aura/gex/archive/refs/tags/v1.3.4.tar.gz"
+  sha256 "232f8b59b10375e11c80cb01395990a83cf98aa096f30913979778fe4f006953"
   license "MIT"
 
   depends_on "ncurses"
